@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, sound, dsp
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects related to sound
-- 📫 How to reach me ...
+- 📫 How to reach me : francesco.papaleo at gmail.com
 
 <!---
 francescopapaleo/francescopapaleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
