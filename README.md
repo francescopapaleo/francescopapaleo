@@ -7,6 +7,7 @@
 1. [Neutone SDK](https://github.com/QosmoInc/neutone_sdk) 
 
 An SDK and a AU/VST plugin to efficiently run neural network inference in a real-time audio application (DAW).
+
 -> Adding the GCN model to the SDK.
 
 ### IDMT SMT Audio Effects
