@@ -10,7 +10,7 @@ An SDK and a AU/VST plugin to efficiently run neural network inference in a real
 
 -> Adding the GCN model to the SDK.
 
-### IDMT SMT Audio Effects
+### IDMT SMT Audio Effects [data loader and classification example]
 A dataset of 55041 guitar and bass sounds with 11 different effects made by the Fraunhofer Institute for Digital Media Technology IDMT.
 
 - [Dataset Loader](https://github.com/mir-dataset-loaders/mirdata/blob/master/mirdata/datasets/idmt_smt_audio_effects.py) for [Mirdata](https://github.com/mir-dataset-loaders/mirdata/blob/master/): Python library for working with Music Information Retrieval datasets
