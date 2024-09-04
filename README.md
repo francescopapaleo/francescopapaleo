@@ -1,6 +1,6 @@
 ## Working on:
 
-+ [Neural Audio Spring Reverb](https://francescopapaleo.github.io/neural-audio-spring-reverb/):
++ [Neural Audio Spring Reverb](https://github.com/francescopapaleo/neural-audio-spring-reverb/):
 Modelling a spring reverb with neural networks.
 
 + [Neutone SDK](https://github.com/QosmoInc/neutone_sdk):
