@@ -22,7 +22,7 @@ title: Portfolio
 email: francesco.papaleo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal portfolio. Here I gather all my projects and works in the arts, design and technology fields.
-baseurl: "/francescopapaleo" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://francescopapaleo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: francescopapaleo
 
