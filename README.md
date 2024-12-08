@@ -1,4 +1,4 @@
-## Working on:
+## Worked on:
 
 + [Neural Audio Spring Reverb](https://github.com/francescopapaleo/neural-audio-spring-reverb/):
 Modelling a spring reverb with neural networks.
